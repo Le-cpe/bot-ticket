@@ -1,0 +1,10 @@
+{
+  "token": "",
+  "clientId": "",
+  "guildId": "",
+  "modRoles": ["", ""],
+  "notifyRoleId": "",
+  "requiredRoleId": "",
+  "ticketCategoryId": "",
+  "transcriptChannelId": ""
+}
